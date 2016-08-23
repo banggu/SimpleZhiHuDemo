@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_blue">#3994FD</color>
+    <color name="primary_pray">#F3F3F3</color>
+    <color name="primary_white">#ffffff</color>
+    <color name="primary_black">#000000</color>
+    <color name="swipe_scheme_color">#0F88EB</color>
+    <color name="swipe_bg_color">#F7FAFC</color>
+
+</resources>

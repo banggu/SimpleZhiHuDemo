@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleZhiHuDemo</string>
+    <string name="action_settings">设置</string>
+    <string name="action_notice">通知</string>
+    <string name="index_page">首页</string>
+
+    <string name="drawer_open">打开导航</string>
+    <string name="drawer_close">关闭导航</string>
+    <string name="user_avatar">请登录</string>
+    <string name="my_favorites">我的收藏</string>
+    <string name="my_download">离线下载</string>
+
+    <string name="hot_news">今日热闻</string>
+</resources>
